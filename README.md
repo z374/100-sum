@@ -14,7 +14,7 @@ I will try to do, every day (or every now and then), an implementation of the pr
 
 
 ### List of the implementations done:
-1. 6-July-2019: [N811]  Base three approach. Does not compile. Time spent: about 1h (special note: ^ is not pow operation xD)
+1. 6-July-2019: [N811]  Base three approach. 
 
 
 
