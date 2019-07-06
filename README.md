@@ -24,5 +24,5 @@ I will try to do, every day (or every now and then), an implementation of the pr
  1. Does it work? (Y/N)
  2. My personal satisfaction about the code written (from 0 to 9)
  3. My personal opinion about the quality of the code written (from 0 to 9)
- 4. How much hours i've spent to make it (from 0 to 9)
+ 4. How many hours i've spent to make it (from 0 to 9)
   
