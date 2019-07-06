@@ -10,7 +10,7 @@ I will try to do, every day (or every now and then), an implementation of the pr
 - generalize the problem (different number set, different operations, different dimensions)
 - code it in different way (different algorithms)
 - code it in efficient way (make it faster)
-- code it in cumbersome way (use all the C# language feature in a tricky way)
+- code it in cumbersome way (use all the C# language feature, possibly with nonsense criteria)
 
 
 ### List of the implementations done:
