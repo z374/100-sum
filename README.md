@@ -14,7 +14,8 @@ I will try to do, every day (or every now and then), an implementation of the pr
 
 
 ### List of the implementations done:
-1. 06-July-2019: [N811]  Base three approach. string-int drama.
+1. 06-July-2019: [N611]  Base three approach. There is a string-int drama.
+2. 07-July-2019: [Y722]  Base three approach. Ugly way to rapresents solutions and print them.
 
 
 
