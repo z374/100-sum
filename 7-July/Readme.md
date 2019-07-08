@@ -4,7 +4,7 @@ Also, for example, the routine to generate base three number is nicer than the f
 
 ![alt text](https://github.com/z374/100-sum/blob/master/7-July/numeribase.png)
 
-The new method return the next number in base three-rapresentation. I like the fact that it does not use any "math" to derive the result, it's just a "language pattern". All you have to do is pass a string, it will return the next base three number. For example:
+The new method return the next number in base three-rapresentation. I like the fact that it does not use any "math" to derive the result, it's just a "language pattern". All you have to do is pass a string and it will return the next base three number. For example:
 "000" --> "001" --> "002" --> "010" --> "011" --> "020" --> and so on...
 
 It's clear that the number of possible solution is correlated to the 3^8 combinations generated (in the begin.. i thought there were 3^9...facepalm).
