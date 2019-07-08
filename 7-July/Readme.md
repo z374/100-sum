@@ -6,6 +6,9 @@ Also, for example, this routine to generate base three number is nicer than the 
 
 The new method return the next number in base three-rapresentation. I like the fact that it does not use any "math" to derive the result, it's just a "language pattern".
 
+The rest of the code written is still total crap. I just wanted to make it works (and it actually does).
+
+
 The results are the following:
 
-![alt text](https://github.com/z374/100-sum/blob/master/7-July/somme.png)
+![alt text](https://github.com/z374/100-sum/blob/master/7-July/somme.png| width=100)
