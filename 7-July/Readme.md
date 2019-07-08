@@ -11,4 +11,4 @@ The rest of the code written is still total crap. I just wanted to make it works
 
 The results are the following:
 
-![alt text](https://github.com/z374/100-sum/blob/master/7-July/somme.png | width=100)
+![alt text](https://github.com/z374/100-sum/blob/master/7-July/somme.png)
