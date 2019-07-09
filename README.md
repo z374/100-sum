@@ -16,7 +16,7 @@ I will try to do, every day (or every now and then), an implementation of the pr
 ### List of the implementations done:
 1. 06-July-2019: [N611]  Base three approach. There is a string-int drama.
 2. 07-July-2019: [Y722]  Base three approach. Ugly way to rapresents solutions and print them.
-3. 09-July-2019: [Y762]  Not about sum-100: some stuff about recursion: anagram & max. Some stuff about indexers and proprieties.
+3. 09-July-2019: [Y762]  Not about sum-100. Recursion: anagram & max. C#: indexers and proprieties.
 
 
 
