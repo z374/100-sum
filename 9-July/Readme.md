@@ -12,3 +12,4 @@ I think my solution is pretty ok. Maybe not the best one,... but it works, and i
 Nothing more to say. 
   
   
+I will porbabily do a recursive sum-100.
