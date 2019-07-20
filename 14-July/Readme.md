@@ -3,3 +3,4 @@ Well.. The written code is able to generate the desiderd seuqence, but in a ugly
 I post this algrithm anyway, 'cause otherwise i'm going to stuck and stop this project.  Here is the (ugly) output of the code.
 
 
+![alt text](https://github.com/z374/100-sum/blob/master/7-July/14lu.png)
