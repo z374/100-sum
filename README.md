@@ -17,7 +17,7 @@ I will try to do, every day (or every now and then), an implementation of the pr
 1. 06-July-2019: [N611]  Base three approach. There is a string-int drama.
 2. 07-July-2019: [Y722]  Base three approach. Ugly way to rapresents solutions and print them.
 3. 09-July-2019: [Y762]  Not about sum-100. Recursion: anagram & max. C#: indexers and proprieties.
-
+4. 14-July-2019: [Y34?]  Recursive approach. Not the best way to get the results.
 
 
 
